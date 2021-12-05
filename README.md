@@ -1,8 +1,9 @@
-👋 Hi, I’m @minnalk!
+Hi, I’m @minnalk! 👋 
 
 👀 I’m interested in:
 - Building mobile applications and websites for social media.
 - Performing data analysis to understand social trends.
+
 🌱 I’m in the second semester of my Information Systems degree. Currently:
 - Comfortable with Python.
 - Practising HTML and CSS.
